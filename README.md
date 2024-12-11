@@ -1,2 +1,2 @@
 # Hanoi-Towers
-A small Hanoi Towers game with GUI
+A small Hanoi Towers solver with GUI
